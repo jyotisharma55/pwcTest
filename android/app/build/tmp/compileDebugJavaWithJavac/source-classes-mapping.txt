@@ -1,0 +1,14 @@
+com/pwctest/MainActivity.java
+ com.pwctest.MainActivity
+com/pwctest/ReactNativeFlipper.java
+ com.pwctest.ReactNativeFlipper
+ com.pwctest.ReactNativeFlipper$1
+ com.pwctest.ReactNativeFlipper$2
+ com.pwctest.ReactNativeFlipper$2$1
+com/pwctest/BuildConfig.java
+ com.pwctest.BuildConfig
+com/pwctest/MainApplication.java
+ com.pwctest.MainApplication
+ com.pwctest.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

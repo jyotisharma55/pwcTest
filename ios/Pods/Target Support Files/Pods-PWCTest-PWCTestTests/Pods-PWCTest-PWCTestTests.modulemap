@@ -1,0 +1,6 @@
+module Pods_PWCTest_PWCTestTests {
+  umbrella header "Pods-PWCTest-PWCTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
